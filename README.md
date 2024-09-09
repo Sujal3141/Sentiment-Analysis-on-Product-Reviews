@@ -50,3 +50,18 @@ models/: Pre-trained models and pickled objects used in the application.
 templates/: HTML templates for the web pages.
 
 README.md: Project documentation (this file).
+
+## Installation and Usage
+1. Clone the repository:
+   git clone (https://github.com/Sujal3141/Sentiment-Analysis-on-Product-Reviews.git)
+2. Create a virtual environment and activate it:
+  `myenv\Scripts\activate`
+3. Install the required packages:
+   pip install -r requirements.txt
+4. Run the Flask application:
+    python app.py
+5. Access the web application:
+    Open the generated link in the terminal .
+   
+You can access the live web application for customer segmentation analysis at the following link:
+[Sentiment Analysis of Product Reviews](https://sentiment-analysis-on-product-reviews.onrender.com/)
